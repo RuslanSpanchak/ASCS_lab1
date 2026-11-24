@@ -1,2 +1,2 @@
-# ASCS_lab1Lab work 2 - Git test 
+# ASCS_lab1
 Hello Git
